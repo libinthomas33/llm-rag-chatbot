@@ -1,0 +1,19 @@
+Holidays - 2024
+Below listed are the declared holidays for the year 2024.
+
+Sl. No    Date               Day           Comments
+1         January 1, 2024    Monday        New Year
+2         January 26, 2024   Friday        Republic Day
+3         March 29, 2024     Friday        Good Friday
+4         April 10, 2024     Wednesday     Id-ul-Fitr (Ramzan)
+5         May 1, 2024        Wednesday     May Day
+6         August 15, 2024    Thursday      Independence Day
+7         September 7, 2024  Saturday      Vinayaka Chaturthi
+8         September 16, 2024 Monday        3rd Onam
+9         September 21, 2024 Saturday      Sree Narayana Guru Samadhi
+10        October 2, 2024    Wednesday     Gandhi Jayanthi
+11        October 31, 2024   Thursday      Deepavali
+12        November 1, 2024   Friday        Kerala Piravi
+13        December 25, 2024  Wednesday     Christmas
+
+Two holidays will be announced later.
